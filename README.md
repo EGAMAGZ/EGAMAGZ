@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Gamaliel 👋
+I am a passionate frontend developer who likes to be able to help people by creating useful tools, and I like to experiment with new technologies to stay ahead of the curve.
 <!--
 **EGAMAGZ/EGAMAGZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
